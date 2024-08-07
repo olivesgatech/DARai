@@ -25,8 +25,10 @@ The structure appears as the following:
 ## Code Usage
 
 For Timeseries activity recognition go to:
+[this link](https://github.com/olivesgatech/DARai/tree/93ea0ce7bc42a485b2b63dd8cacf103f476f646d/timeseries_Activity_Recognition)
 
 For RGB/D activity recognition go to:
+[this link](https://github.com/olivesgatech/DARai/tree/93ea0ce7bc42a485b2b63dd8cacf103f476f646d/timeseries_Activity_Recognition)
 
 
 ## Citation
