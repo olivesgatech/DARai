@@ -1,4 +1,4 @@
-# Multimodal HAR
+# Video HAR
 
 
 For consistency in results, the versions that we used are:
