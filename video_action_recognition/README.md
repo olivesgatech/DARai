@@ -27,10 +27,11 @@ For DARai, download and extract the data yourself ([link](https://ieee-dataport.
 Test subjects id: 10 , 16 , 19
 Validation subjects id: 02 , 20
 
-'''
+```
 cd ~path to this directory
+
 bash ./split data.sh
-'''
+```
 
 ## Folder structure
 
