@@ -4,7 +4,7 @@
 For consistency in results, the versions that we used are:
 * Python: `3.10.14`
 * Pytorch: `2.2.2`
-* torchvision : '0.17.2'
+* torchvision : `0.17.2`
 * CUDA: `12.1`
 
 
