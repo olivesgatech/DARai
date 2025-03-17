@@ -103,7 +103,7 @@ if __name__ == "__main__":
                       'std_test_accuracy': np.std(all_test_accuracies)}
     save_results_to_json(average_result,
                          os.path.join(args.base_dir ,"results",
-                                      f"average seed result_{args.modality}_{args.backbone}_{args.sampling}_ep {args.epochs}_B {args.batch_size}_{args.env}_{args.cam_view}_weights {args.weights}.json"))
+                                      f"average result_{args.modality}_{args.backbone}_{args.sampling}_ep {args.epochs}_B {args.batch_size}_{args.env}_{args.cam_view}_weights {args.weights}.json"))
     # Plotting
     # epochs = range(1, args.epochs + 1)
     epochs = range(1, max_epochs + 1)

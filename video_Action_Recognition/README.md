@@ -4,7 +4,7 @@
 For consistency in results, the versions that we used are:
 * Python: `3.10.14`
 * Pytorch: `2.2.2`
-* torchvision : '0.17.2'
+* torchvision : `0.17.2`
 * CUDA: `12.1`
 
 
@@ -60,15 +60,17 @@ python -m "./video_action_recognition/run_experiments.py" /
  --epochs 10 /
  --data_dir "path to/rgb_dataset/" /
  --base_dir "path to/Activity_Recognition_benchmarking/" /
- --device  /
+ --device your_device /
  --env "livingroom" /
  --batch_size 16 /
  --cam_view "cam_1" /
+ --backbone "MViT" /
+ --weights True
 
 ```
 
 
-**Note:** by default, model checkpoints (parameters) are saved in `base_dir/`. 
+**Note:** by default, model checkpoints (parameters), figures and results are saved in `base_dir/`. 
 
 
 

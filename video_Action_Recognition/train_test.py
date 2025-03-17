@@ -498,7 +498,7 @@ def train_and_evaluate(args):
     writer.close()
 
     # Save the best model weights
-    model_path = os.path.join(checkpoints_dir, f'best_3d_resnet_{args.modality}_{args.backbone}_{sampling_method}_seed {args.seed}_ep {args.epochs}_B {batch_size} T {seq_len}_{args.env}_{args.cam_view}_weights {args.weights}.pth')
+    model_path = os.path.join(checkpoints_dir, f'best_{args.modality}_{args.backbone}_{sampling_method}_seed {args.seed}_ep {args.epochs}_B {batch_size} T {seq_len}_{args.env}_{args.cam_view}_weights {args.weights}.pth')
     torch.save(model.state_dict(), model_path)
     print("checkpoint saved")
 
