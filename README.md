@@ -24,9 +24,11 @@ The structure appears as the following:
 
 ## Code Usage
 
-For Timeseries activity recognition go to:
+For Timeseries activity recognition go to: [this codebase]()
 
-For RGB/D activity recognition go to:
+For RGB/D activity recognition go to: [this codebase]()
+
+For action anticipation go to: [this codebase]()
 
 
 ## Citation

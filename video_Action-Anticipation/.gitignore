@@ -1,0 +1,5 @@
+FUTR_proposed/save_dir
+FUTR_proposed/datasets
+__pycache__
+*.pth
+*.txt
