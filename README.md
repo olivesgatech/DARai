@@ -21,6 +21,7 @@ Local Dataset Path/
 You can download each group of modalities separatly and use them in your machine learning and deep learning pipeline.
 The structure appears as the following:
 
+Access and review modality availability per subject-session from [this link](https://drive.google.com/file/d/1sHRmSdD7fMals1WrNQz-T_Qt2YHoTxiu/view?usp=sharing).
 
 ## Code Usage
 
