@@ -24,11 +24,11 @@ The structure appears as the following:
 
 ## Code Usage
 
-For Timeseries activity recognition go to: [this codebase]()
+For Timeseries activity recognition go to: [this codebase](https://github.com/olivesgatech/DARai/tree/main/timeseries_Activity_Recognition)
 
-For RGB/D activity recognition go to: [this codebase]()
+For RGB/D activity recognition go to: [this codebase](https://github.com/olivesgatech/DARai/tree/main/video_Action_Recognition)
 
-For action anticipation go to: [this codebase]()
+For action anticipation go to: [this codebase](https://github.com/olivesgatech/DARai/tree/main/video_Action-Anticipation)
 
 
 ## Citation
