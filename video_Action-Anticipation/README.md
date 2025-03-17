@@ -1,6 +1,6 @@
 # Action Anticipation with DARAI Dataset
 
-## 📂 Data Preparation
+## Data Preparation
 
 1. Download the dataset from our [dataport](https://ieee-dataport.org/open-access/darai-daily-activity-recordings-ai-and-ml-applications).  
 2. Unzip `features_img.zip` into the following directory:  
@@ -9,7 +9,7 @@
    FUTR_proposed/datasets/darai/features_img
    ```
 
-## 🚀 Training
+## Training
 
 To start training the model, run the following command:
 
@@ -17,7 +17,7 @@ To start training the model, run the following command:
 python3 FUTR_proposed/main_darai.py --mode=train
 ```
 
-## 🔍 Inference
+## Inference
 For making predictions, use:
 ```bash
 python3 FUTR_proposed/main_darai.py --predict
