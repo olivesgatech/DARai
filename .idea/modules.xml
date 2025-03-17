@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/public_repo_DARai.iml" filepath="$PROJECT_DIR$/.idea/public_repo_DARai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DARai.iml" filepath="$PROJECT_DIR$/.idea/DARai.iml" />
     </modules>
   </component>
 </project>
