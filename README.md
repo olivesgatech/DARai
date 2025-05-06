@@ -41,12 +41,9 @@ publisher = {IEEE Dataport},
 title = {DARai: Daily Activity Recordings for AI and ML applications},
 year = {2024} }
 
-@misc{kaviani2025hierarchicalmultimodaldatadaily,
-      title={Hierarchical and Multimodal Data for Daily Activity Understanding}, 
-      author={Ghazal Kaviani and Yavuz Yarici and Seulgi Kim and Mohit Prabhushankar and Ghassan AlRegib and Mashhour Solh and Ameya Patil},
-      year={2025},
-      eprint={2504.17696},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.17696}, 
+@article{kaviani2025hierarchical,
+  title={Hierarchical and Multimodal Data for Daily Activity Understanding},
+  author={Kaviani, Ghazal and Yarici, Yavuz and Kim, Seulgi and Prabhushankar, Mohit and AlRegib, Ghassan and Solh, Mashhour and Patil, Ameya},
+  journal={arXiv preprint arXiv:2504.17696},
+  year={2025}
 }
