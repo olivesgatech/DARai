@@ -33,17 +33,17 @@ For action anticipation go to: [this codebase](https://github.com/olivesgatech/D
 
 ## Citation
 
-@data{ecnr-hy49-24,
-doi = {10.21227/ecnr-hy49},
-url = {https://dx.doi.org/10.21227/ecnr-hy49},
-author = {Kaviani, Ghazal and Yarici, Yavuz and Prabhushankar, Mohit and AlRegib, Ghassan and Solh, Mashhour and Patil, Ameya},
-publisher = {IEEE Dataport},
-title = {DARai: Daily Activity Recordings for AI and ML applications},
-year = {2024} }
-
 @article{kaviani2025hierarchical,
   title={Hierarchical and Multimodal Data for Daily Activity Understanding},
   author={Kaviani, Ghazal and Yarici, Yavuz and Kim, Seulgi and Prabhushankar, Mohit and AlRegib, Ghassan and Solh, Mashhour and Patil, Ameya},
   journal={arXiv preprint arXiv:2504.17696},
   year={2025}
 }
+
+@data{ecnr-hy49-24,
+doi = {10.21227/ecnr-hy49},
+url = {https://dx.doi.org/10.21227/ecnr-hy49},
+author = {Ghazal Kaviani and Yavuz Yarici and Mohit Prabhushankar and Ghassan AlRegib and Mashhour Solh and Ameya Patil},
+publisher = {IEEE Dataport},
+title = {DARai: Daily Activity Recordings for AI and ML applications},
+year = {2024} }
