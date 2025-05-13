@@ -41,7 +41,6 @@ For action anticipation go to: [this codebase](https://github.com/olivesgatech/D
 }
 
 @data{ecnr-hy49-24,
-doi = {10.21227/ecnr-hy49},
 url = {https://dx.doi.org/10.21227/ecnr-hy49},
 author = {Ghazal Kaviani and Yavuz Yarici and Mohit Prabhushankar and Ghassan AlRegib and Mashhour Solh and Ameya Patil},
 publisher = {IEEE Dataport},
