@@ -29,6 +29,7 @@ For Timeseries activity recognition go to: [this codebase](https://github.com/ol
 For RGB/D activity recognition go to: [this codebase](https://github.com/olivesgatech/DARai/tree/main/video_Action_Recognition)
 
 For action anticipation go to: [this codebase](https://github.com/olivesgatech/DARai/tree/main/video_Action-Anticipation)
+
 For VQA benchmarking go to: [this codebase](https://github.com/olivesgatech/DARai/tree/main/video_VQA_Benchmarking)
 
 
